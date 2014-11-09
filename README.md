@@ -2,7 +2,6 @@ Indix_Proto
 ===========
 
 HTML5 Sample Trial
-
 A Sample HTML5 Prototype Implementation for Responsive Web Layout with Chart Implementations.
 
 Libabraries Used
